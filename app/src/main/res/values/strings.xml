@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MYCreateBundalWithFeature</string>
+    <string name="title_feature1">fetaure1</string>
+    <string name="title_feature2">feature2</string>
+</resources>
